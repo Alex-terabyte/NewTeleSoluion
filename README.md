@@ -1,0 +1,2 @@
+# NewTeleSoluion
+all
